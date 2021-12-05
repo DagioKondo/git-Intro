@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    //だいごですよろしくね
+    
     //＜変更点の追加＞,git add,git commit
     //git rm
     // git status
