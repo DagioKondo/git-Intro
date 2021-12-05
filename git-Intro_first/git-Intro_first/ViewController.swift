@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     //＜変更点の追加＞,git add,git commit
     //git rm
     // git status
+    //git diff
 
 
 }
